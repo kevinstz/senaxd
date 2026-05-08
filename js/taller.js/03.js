@@ -1,4 +1,10 @@
 a=2
 b=4
 c=a+b
-console.log(c)
+d=a*b
+e=a-b
+f=a/b
+console.log("suma=",c)
+console.log("multiplicacion=",d)
+console.log("resta=",e)
+console.log("divicion=",f)
