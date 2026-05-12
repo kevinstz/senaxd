@@ -1,0 +1,6 @@
+dat1=int(input("ingrese un numero entero"))
+dat2=int(input("ingrese un numero entero"))
+dat3=int(input("ingrese un numero entero"))
+if dat1>dat2 and dat1>dat3: print("es mayor",dat1)
+elif dat3>dat2 and dat3>dat1: print("es mayor",dat3)
+else: print ("es mayor",dat2)
