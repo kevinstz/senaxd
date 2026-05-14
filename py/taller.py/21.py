@@ -1,0 +1,7 @@
+edaduser=int(input("digite su edad="))
+if edaduser <=0 :print("no existes")
+if edaduser >=120:print("no creo")
+if edaduser >0 and edaduser<=12:print("eres un niño")
+if edaduser >13 and edaduser<=17:print("eres un joven")
+if edaduser >18 and edaduser<=66:print("eres un adulto")
+if edaduser >66 and edaduser<120: print ("eres un adulto mayor")
